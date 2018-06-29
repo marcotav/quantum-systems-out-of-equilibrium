@@ -29,6 +29,9 @@
 
 The out-of-equilibrium dynamics of quantum many-body systems can be investigated using a technique called exact diagonalization (ED). Though this is an "old school" approach [1](https://scipost.org/10.21468/SciPostPhys.2.1.003) it is still extremely powerful. In this repo I will use the new [QuSpin Python package](https://github.com/weinbe58/QuSpin) to study several important models within this subject matter. I will also investigate the application of neural networks to build many-body ground-state wave functions.
 
+This repo will be constantly updated. I will start with the basics of the QuSpin package and the corresponding physics, and gradually increase the complexity of both. Initially, the project will have tutorial-like style and the aim is to give examples of many well-known systems. Only later generalizations and a holistic approach will be introduced. The final, and quite lofty, goal is to try to derive out-of-equilibrium dynamics from first principles.
+
+
 <a id = 'ED'></a>
 ## Exact Diagonalization
 
