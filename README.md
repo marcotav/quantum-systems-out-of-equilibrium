@@ -6,10 +6,10 @@
 </p>
 <p align="center">
   <img src="images/qsffe.png" 
-       width="400">
+       width="600">
 </p>
 </p>
 <p align="center">
   <img src="images/tuv.png" 
-       width="300">
+       width="100">
 </p>
