@@ -32,7 +32,9 @@ The out-of-equilibrium dynamics of quantum many-body systems can be investigated
 This repo will be constantly updated. I will start with the basics of the QuSpin package and the corresponding physics, and gradually increase the complexity of both. Initially, the project will have tutorial-like style and the aim is to give examples of many well-known systems. Only later generalizations and a holistic approach will be introduced. The final, and quite lofty, goal is to try to derive out-of-equilibrium dynamics from first principles.
 
 
-<a id = 'ED'></a>
-## Exact Diagonalization
-
+### Notebooks and descriptions
+| Project | Brief Description |
+|--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [exact-diagonalization-basics](https://github.com/marcotav/deep-learning/blob/master/painters-identification/README.md) | Basic ED|
+| [dynamics](https://github.com/marcotav/deep-learning/blob/master/bitcoin/README.md) | Basic dynamics|
 
