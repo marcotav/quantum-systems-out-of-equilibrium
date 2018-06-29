@@ -5,11 +5,11 @@
        width="100">
 </p>
 <p align="center">
-  <img src="images/qstffe.png" 
-       width="600">
+  <img src="images/qsffe.png" 
+       width="400">
 </p>
 </p>
 <p align="center">
   <img src="images/tuv.png" 
-       width="600">
+       width="300">
 </p>
