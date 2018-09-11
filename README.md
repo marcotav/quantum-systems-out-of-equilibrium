@@ -35,5 +35,5 @@ This repo will be constantly updated. I will start with the basics of many-body 
 ### Notebooks and descriptions
 | Project | Brief Description |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [many-body-localization](https://github.com/marcotav/deep-learning/blob/master/painters-identification/README.md) | Introduction do MBL|
+| [many-body-localization](https://github.com/marcotav/quantum-systems-out-of-equilibrium/blob/master/notebooks/MBL.ipynb) | Introduction do MBL|
 
