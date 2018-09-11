@@ -6,7 +6,7 @@
 </p>
 <p align="center">
   <img src="images/qsffe.png" 
-       width="800">
+       width="600">
 </p>
 </p>
 <p align="center">
@@ -24,7 +24,8 @@ The out-of-equilibrium dynamics of quantum many-body systems can be investigated
 This repo will be constantly updated. I will start with the basics of many-body localization (MBL) and gradually increase the complexity of the examples. The project, at least initially, will have tutorial-like style and the aim is to give examples of many well-known systems. 
 
 
-### Notebooks and descriptions
+## Notebooks and descriptions
+
 | Project | Brief Description |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [many-body-localization](http://nbviewer.jupyter.org/github/marcotav/quantum-systems-out-of-equilibrium/blob/master/notebooks/MBL.ipynb) | Introduction do MBL|
